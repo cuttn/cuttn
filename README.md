@@ -6,7 +6,7 @@ I'm a **second-year Computer Science student** at the **University of Western On
 
 ## 🔧 What I Do
 
-I’m constantly exploring **cutting-edge technologies** and entrepreneurial projects, combining my academic knowledge with hands-on experience. Currently, I’m building a **Houseparty Marketplace App** targeting university students across North America, just trying to move fast and break things.
+I’m constantly exploring **cutting-edge technologies** and entrepreneurial projects, combining my academic knowledge with hands-on experience. Currently, I’m building a **Houseparty Marketplace App** targeting university students across North America, just trying to move fast and break things!
 
 My expertise spans:
 
